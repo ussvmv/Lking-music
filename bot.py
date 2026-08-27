@@ -1504,4 +1504,4 @@ async def main():
         print("❌ No Discord Tokens found in .env file!")
 
 if __name__ == "__main__":
-    asyncio.run(main())%  
+    asyncio.run(main())
