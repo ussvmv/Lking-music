@@ -1,7 +1,5 @@
 discord.py
+yt-dlp
 PyNaCl
-flask
-lyricsgenius
 python-dotenv
-yt_dlp
 requests
