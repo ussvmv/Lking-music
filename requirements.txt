@@ -1,8 +1,8 @@
 discord.py
 PyNaCl
-davey
 flask
 lyricsgenius
 python-dotenv
-yt_dlp
+yt-dlp
 requests
+imageio-ffmpeg
