@@ -3,3 +3,5 @@ PyNaCl
 flask
 lyricsgenius
 python-dotenv
+yt_dlp
+requests
