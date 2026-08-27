@@ -1,5 +1,6 @@
 discord.py
 PyNaCl
+davey
 flask
 lyricsgenius
 python-dotenv
