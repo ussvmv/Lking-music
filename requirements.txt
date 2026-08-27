@@ -2,3 +2,4 @@ discord.py
 PyNaCl
 flask
 lyricsgenius
+python-dotenv
